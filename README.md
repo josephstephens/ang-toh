@@ -1,2 +1,2 @@
 # ang-toh
-My first repo. I'm making for the Angular Heroes tutorial project.
+My first repo. I'm making this for the Angular Heroes tutorial project.
